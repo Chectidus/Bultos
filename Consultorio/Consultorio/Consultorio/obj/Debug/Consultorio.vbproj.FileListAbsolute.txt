@@ -9,3 +9,4 @@ C:\Users\Andromedus\Documents\Consultorio\Consultorio\Consultorio\obj\Debug\Cons
 C:\Users\Andromedus\Documents\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.xml
 C:\Users\Andromedus\Documents\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.pdb
 C:\Users\Andromedus\Documents\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.Datos_paciente.resources
+C:\Users\Andromedus\Documents\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.Datos_de_proveedor.resources
