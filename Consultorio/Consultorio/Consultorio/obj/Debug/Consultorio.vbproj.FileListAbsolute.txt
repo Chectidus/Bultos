@@ -1,0 +1,11 @@
+C:\Users\Andromedus\Documents\Consultorio\Consultorio\Consultorio\bin\Debug\Consultorio.exe.config
+C:\Users\Andromedus\Documents\Consultorio\Consultorio\Consultorio\bin\Debug\Consultorio.exe
+C:\Users\Andromedus\Documents\Consultorio\Consultorio\Consultorio\bin\Debug\Consultorio.pdb
+C:\Users\Andromedus\Documents\Consultorio\Consultorio\Consultorio\bin\Debug\Consultorio.xml
+C:\Users\Andromedus\Documents\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.vbprojResolveAssemblyReference.cache
+C:\Users\Andromedus\Documents\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.Resources.resources
+C:\Users\Andromedus\Documents\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.vbproj.GenerateResource.Cache
+C:\Users\Andromedus\Documents\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.exe
+C:\Users\Andromedus\Documents\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.xml
+C:\Users\Andromedus\Documents\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.pdb
+C:\Users\Andromedus\Documents\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.Datos_paciente.resources
